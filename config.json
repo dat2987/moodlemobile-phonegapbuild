@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.vnedu.moodlemobile",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3800,
@@ -52,6 +52,7 @@
         "tg": "Тоҷикӣ",
         "tr": "Türkçe",
         "uk": "Українська",
+        "vi": "Tiếng Việt",
         "zh-cn": "简体中文",
         "zh-tw": "正體中文"
     },
